@@ -70,6 +70,12 @@ The roadmap provides a comprehensive guide to the essential topics for a typical
 >
 > - 👶 : Easy-to-understand and beginner-friendly resources. Refer to them if you do not have prior knowledge in a topic.
 > - 💎 : Well-known references that have truly invaluable and comprehensive content. Refer to them if you want to deepen your understanding of a topic.
+> 
+> **Learning process:**
+> - 🟠 : planned to view
+> - 🟡 : in progress
+> - 🟢 : done
+> 
 
 ## 😕 Don't Know Where to Start!
 
@@ -251,7 +257,7 @@ Computer architecture is the backbone of embedded systems, governing the hardwar
 - [📘👶 The Elements of Computing Systems - Noam Nisan, Shimon Schocken](https://a.co/d/cX6jkLl)
 - [📘 Computer Organization and Embedded Systems - Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian](https://a.co/d/2lt4Svf)
 - [📘 Embedded Systems Architecture - Tammy Noergaard](https://www.oreilly.com/library/view/embedded-systems-architecture/9780123821966/)
-- [📘 Embedded Systems Architecture - Daniele Lacamera](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)
+- [📘 Embedded Systems Architecture - Daniele Lacamera - 🟡](https://www.packtpub.com/product/embedded-systems-architecture-second-edition/9781803239545)
 - [📘 The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors - Joseph Yiu](https://www.oreilly.com/library/view/the-definitive-guide/9780128032787/)
 - [📘 The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors - Joseph Yiu](https://www.oreilly.com/library/view/the-definitive-guide/9780124080829/)
 - [🔗 Build an 8-bit computer from scratch](https://eater.net/8bit/)
