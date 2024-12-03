@@ -368,7 +368,7 @@ Mastering programming fundamentals and software development principles is essent
 
 - [📝 Practical Design Patterns: Opaque Pointers and Objects in C](https://interrupt.memfault.com/blog/opaque-pointers)
 - [📘💎 Design Patterns for Embedded Systems in C - Bruce Powel Douglass](https://www.oreilly.com/library/view/design-patterns-for/9781856177078/)
-- [📘💎 Making Embedded Systems: Design Patterns for Great Software - Elecia White](https://www.oreilly.com/library/view/making-embedded-systems/9781449308889/)
+- [📘💎 Making Embedded Systems: Design Patterns for Great Software - Elecia White - 🟡](https://www.oreilly.com/library/view/making-embedded-systems/9781449308889/)
 - [🔗 Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 
 #### 🔵 State Machines
